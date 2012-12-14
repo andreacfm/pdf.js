@@ -1,0 +1,7 @@
+{
+  "name": "andreacfm.pdf.js",
+  "version": "0.0.1",
+  "main" : "./pdf.js",	
+  "dependencies": {
+  }
+}
